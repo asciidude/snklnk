@@ -1,5 +1,6 @@
 # snklnk
 The official sneaky link website
 
-# api
-not avaliable or created yet
+# api use
+not avaliable or created yet<br>
+[docs](404.com)
