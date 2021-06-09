@@ -1,0 +1,31 @@
+{
+  "name": "snklnk",
+  "version": "1.0.0",
+  "description": "sneaky link! 18+",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "ejs-lint": "^1.2.0",
+    "electron": "^13.1.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "ip": "^1.1.5",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "snklnk",
+    "18plus",
+    "nsfw",
+    "chat-app",
+    "chatting",
+    "snapchat"
+  ],
+  "author": "pxpcandy",
+  "license": "MIT"
+}
